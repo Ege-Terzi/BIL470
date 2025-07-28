@@ -1,1 +1,1 @@
-Githuba yükleyebilmek için emotions verisi çok az koyabildim. Daha fazla eğitim verisi olunca daha iyi sonuç veriyor
+Githuba yükleyebilmek için emotions verisi çok az koyabildim. Daha fazla eğitim verisi olunca daha iyi sonuç veriyor. Projemin son hali Yontem1 ve Yontem2 dosyalarinda. Fakat verim büyük olduğu için tekrar yükleyemedim bu yüzden çalıştırmak için EMOTION ve SLEEP dosyalarındaki verileri Yontem1 ve Yontem2 klasörlerinin altındaki uygun başlıklara çıkartmanız gerekmektedir.
